@@ -41,7 +41,7 @@ Awesome NextFlow workflows using R and Rscript.
 
 ![Slide 4 -- Why use workflows?](./doc/presentation/Slide4.JPG)
 
-![Slide 5 -- NextFlow concepts](./doc/presentation/Slide5.JPG)
+![Slide 5 -- NextFlow concepts](./doc/presentation/Slide5.jpg)
 
 ![Slide 6 -- NextFlow vs. Snakemake](./doc/presentation/Slide6.JPG)
 
