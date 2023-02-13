@@ -1,4 +1,5 @@
-# awesome-nextflowr
+# awesome_r-nf
+
 Awesome NextFlow workflows using R and Rscript.
 
 # By Topic
